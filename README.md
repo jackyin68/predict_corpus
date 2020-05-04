@@ -16,5 +16,5 @@ This is not an official product.
 
 For help or issues using predict_corpus, please submit a GitHub issue.
 
-For personal communication related to BERT, please contact Jack yin
+For personal communication related to PREDICT_CORPUS, please contact Jack yin
 (`yinzhiwu@126.com`).
