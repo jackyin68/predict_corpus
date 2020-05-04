@@ -1,0 +1,18 @@
+https：//archive.ics.uci.edu/ml/machine-learning-databases/housing/
+https://www.kaggle.com/c/boston-housing
+http://paddlemodels.bj.bcebos.com/uci_housing/housing.data
+
+CRM:    城镇人均犯罪率
+ZN：    占地面积超过2.6万平方英尺的住宅用地比例
+INDUS:  城镇非零售业务地区的比例
+CHAS：   查尔斯河虚拟变量（0：土地不在河边， 1：土地在河边)
+NOX:     一氧化氮浓度（每1000万份）
+RM:      平均每居民房数
+AGE：    在1940年之前建成的所有者占用单位的比例
+DIS：    与波士顿就业中心的加权距离
+RAD：    辐射状公路的可达性指数
+TAX：    每10000美元的金额物业税率
+PTRATIO: 城镇师生比例
+B1000(Bk-0.63)^2：Bk是城镇的黑人比例
+LSTAT：   人口中地位较低人群的百分数
+MEDV:    以1000美元计算的自有住房的中位数
