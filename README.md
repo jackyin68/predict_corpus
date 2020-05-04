@@ -1,6 +1,7 @@
 # PREDICT_CORPUS
 
 **\*\*\*\*\* New May 4th, 2020: Linear/polynominal regression, random forest, feature selection \*\*\*\*\***
+
 **\*\*\*\*\* New May 4th, 2020: Deep learning, LSTM \*\*\*\*\***
 
 Our goal is to gather useful methods to make better prediction.
