@@ -4,6 +4,8 @@
 
 **\*\*\*\*\* New May 4th, 2020: Deep learning, LSTM \*\*\*\*\***
 
+**\*\*\*\*\* New May 15th, 2020: SVR regression \*\*\*\*\***
+
 Our goal is to gather useful methods to make better prediction.
 
 Note that you can download all source code, but any effect and results have not been guaranteed.
